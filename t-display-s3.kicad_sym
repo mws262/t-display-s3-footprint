@@ -445,7 +445,26 @@
 				)
 			)
 			(pin input line
-				(at 13.97 -11.43 180)
+				(at 13.97 -10.16 180)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 13.97 -12.7 180)
 				(length 2.54)
 				(hide yes)
 				(name "NC"
@@ -464,7 +483,7 @@
 				)
 			)
 			(pin input line
-				(at 13.97 -11.43 180)
+				(at 13.97 -15.24 180)
 				(length 2.54)
 				(hide yes)
 				(name "NC"
@@ -475,25 +494,6 @@
 					)
 				)
 				(number "16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 13.97 -11.43 180)
-				(length 2.54)
-				(hide yes)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
